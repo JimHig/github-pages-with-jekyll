@@ -1,5 +1,5 @@
 ---
 title: "JimHig Blog"
-date: 07/06/2020
+date: 2020/06/07
 ---
 
